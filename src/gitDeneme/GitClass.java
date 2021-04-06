@@ -6,5 +6,6 @@ public class GitClass {
         System.out.println("Nzm");
         System.out.println("burak");
         System.out.println("yeni calisma");
+        System.out.println("calisma sonu");
     }
 }
